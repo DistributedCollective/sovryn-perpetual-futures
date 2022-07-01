@@ -1,0 +1,44 @@
+[
+    {
+        "timeindex": 0,
+        "activeTraders": 2,
+        "trades": [
+            {
+                "traderNoAMM": 2,
+                "cash": 2,
+                "lockedIn": 1,
+                "position": 1
+            },
+            {
+                "traderNoAMM": 1,
+                "cash": 1,
+                "lockedIn": 2,
+                "position": 2
+            }
+        ],
+        "defaultfund": 5,
+        "ammfund": 3,
+        "participationFund": 7
+    },
+    {
+        "timeindex": 1,
+        "activeTraders": 1,
+        "trades": [
+            {
+                "traderNoAMM": 1,
+                "cash": 1,
+                "lockedIn": 2,
+                "position": 3
+            },
+            {
+                "traderNoAMM": 2,
+                "cash": 2,
+                "lockedIn": 3,
+                "position": 5
+            }
+        ],
+        "defaultfund": 8,
+        "ammfund": 2,
+        "participationFund": 8
+    }
+]
