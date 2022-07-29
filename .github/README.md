@@ -6,7 +6,8 @@ Sovryn Perpetuals are classic Perpetual Futures that rely on an automated market
 
 * Get an overview by continuing reading this document
 * Read the [Whitepaper](../docs/SovrynPerpetualsV1_1.9.pdf) on Sovryn Perpetual Futures
-* Have a look at the [Audit Report](../docs/Hacken_Audit_Report_5.pdf) by Hacken.io
+* Have a look at the [Audit Report](../docs/Hacken_Audit_Report_5.pdf) by Hacken.io, or the preliminary audit by
+ [Certik](../docs/CertikAuditNov17_2021.pdf).
 * Repository to help you run your own [liquidator bot](https://github.com/DistributedCollective/sovryn-perpetual-swap-liquidator)
 * Repository to help you run your own [order-relayer bot](https://github.com/DistributedCollective/relayer-limit-orders-for-perps)
 * Create your own Typescript applications that interacts with Sovryn Perpetuals using the Sovryn Perps node package ``npm install @sovryn/perpetual-swap``
