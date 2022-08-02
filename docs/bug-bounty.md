@@ -24,3 +24,6 @@ Payouts are handled by the Sovryn team directly and are denominated in USD. Howe
 | Medium       | 1,500  |
 | Low          | 0      |
 | Informational| 0      |
+
+For more details see the Immunefy Website:  
+[![Immunefy Bug Bounty](../docs/immunefy10.png)](https://immunefi.com/bounty/sovrynperpetualfutures/) 
